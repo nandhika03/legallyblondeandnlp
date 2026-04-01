@@ -1,8 +1,7 @@
 streamlit
 pandas
 nltk
-base64
 spacy
 ipykernel
 fsspec
-re
+scikit-learn
