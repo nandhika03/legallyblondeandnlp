@@ -45,7 +45,12 @@ def run_bow():
     # Paragraph input
     paragraph = st.text_area(
         "Enter Paragraph for Bag of Words:", 
-        """flock of abstract, silky, golden strands -- PULLING BACK, to discover that the strands are hair on a BLONDE GIRL's head...""",
+        """A Delta Gamma/Sigma Chi barbecue in full swing. Beautiful college students drink beer and mingle,
+        trying to figure out who they're going to sleep with next. The main wall of the living room has been 
+        designated as a "Model Wall" of Delta Gamma girls -- ELLE smiles at us from a Hawaiian Tropic ad and
+        a Miss June USC calendar photo. A cover of an Italian Vogue shows a blonde sexpot MARGOT; a USC 
+        cheerleader poster displays a hard-bodied non-blonde SERENA in a pom-pom pose.
+        Serena walks up, fending off an admirer.""",
         label_visibility="collapsed"
     )
     
