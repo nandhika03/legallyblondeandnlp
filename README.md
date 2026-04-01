@@ -1,2 +1,2 @@
 **This project is intended only for learning purposes**
-![image](C://Users//Nandhika//Desktop//LegallyBlonde//data//bg_lb.png)
+![image](https://www.yourtango.com/sites/default/files/image_blog/36-iconic-legally-blonde-quotes.png)
