@@ -19,7 +19,7 @@ def get_img_base64(path):
     with open(path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-image_64 = get_img_base64("C://Users//Nandhika//Desktop//LegallyBlonde//bg_elle.png")
+image_64 = get_img_base64("C://Users//Nandhika//Desktop//LegallyBlonde//data//bg_elle.png")
 
 # Page setup
 st.set_page_config(layout="wide")

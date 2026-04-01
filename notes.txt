@@ -1,5 +1,3 @@
 https://imsdb.com/scripts/Legally-Blonde.html : Script Source
 https://medium.com/accredian/make-your-streamlit-web-app-look-better-14355c2db871 : streamlit
 
-C:\Users\Nandhika\Desktop\LegallyBlonde
-environment name: elleenv
