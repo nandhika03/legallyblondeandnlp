@@ -259,7 +259,7 @@ line_id,speaker,type,text
 335,SERENA                                   .,dialogue,Serena and Margot stand in the door.
 336,MARGOT,dialogue,Elle?
 337,SERENA,dialogue,Where's the Rock?
-339,ELLE                                             .,dialogue,We're not engaged.     It's over!
+339,ELLE                                             ,dialogue,We're not engaged.     It's over!
 340,SERENA AND MARGOT,dialogue,What?!
 342,ELLE,dialogue,He broke up with me!
 343,ELLE,dialogue,"Serena and Margot gasp in horror, rushing to her side."
@@ -272,8 +272,8 @@ line_id,speaker,type,text
 350,ELLE,dialogue,it'll do any good.
 353,SERENA,dialogue,What happened?
 354,SERENA,dialogue,Elle starts to lose it again.
-355,;       ELLE,dialogue,I don't know! Everything was normal at
-356,;       ELLE,dialogue,first and then he said he needed someone
+355, ELLE,dialogue,I don't know! Everything was normal at
+356,ELLE,dialogue,first and then he said he needed someone
 357,;       ELLE,dialogue,mo r e --
 358,;       ELLE,stage_direction,(sob-choked)
 359,;       ELLE,dialogue,Serious! .
@@ -2921,8 +2921,8 @@ line_id,speaker,type,text
 3192,DONOVAN,dialogue,"blows a bubble, lets it pop, then sets her briefcase down"
 3193,DONOVAN,dialogue,next to Donovan's.
 3194,'                ELLE,stage_direction,(to Donovan)
-3195,'                ELLE,dialogue,Excuse you. You're in my way.
-3196,'                ELLE,dialogue,She nudges him aside.      Donovan looks at Brooke.
+3195,ELLE,dialogue,Excuse you. You're in my way.
+3196,ELLE,dialogue,She nudges him aside.      Donovan looks at Brooke.
 3197,DONOVAN,dialogue,She's a law student.       She can't defend
 3198,DONOVAN,dialogue,you.
 3199,DONOVAN,dialogue,"Dorky David steps up, holding out a marked casebook."
@@ -3172,15 +3172,15 @@ line_id,speaker,type,text
 3467,ELLE,dialogue,He moves closer.
 3468,WARNER,dialogue,It made me realize something.      I ' m an
 3469,WARNER,dialogue,idiot.
-3470,ELLE .,dialogue,Really?
-3471,ELLE .,dialogue,He turns on the charm.
+3470,ELLE ,dialogue,Really?
+3471,ELLE ,dialogue,He turns on the charm.
 3472,WARNER,dialogue,"I want to be with you, Elle.       Forever."
 3473,WARNER,dialogue,"He pulls her close, hand around her waist, kissing her. She"
 3474,WARNER,dialogue,"looks up at him, a trace of the old love in her eyes. For a"
 3475,WARNER,dialogue,"moment, she melts."
-3476,ELLE                                     .               ',dialogue,"I want to be with you, too, Warner."
-3477,ELLE                                     .               ',dialogue,"After a moment, she steps back, removing his hand       from her             '"
-3478,ELLE                                     .               ',dialogue,waist and wrenching it behind his back.
+3476,ELLE ,dialogue,"I want to be with you, too, Warner."
+3477,ELLE,dialogue,"After a moment, she steps back, removing his hand       from her             '"
+3478,ELLE ,dialogue,waist and wrenching it behind his back.
 3479,ELLE,dialogue,In court.     On opposing sides.
 3480,WARNER,stage_direction,(shocked)
 3481,WARNER,dialogue,Are you serious?
@@ -3199,12 +3199,12 @@ line_id,speaker,type,text
 3496,ELLE,dialogue,"Yes, you are."
 3497,SARAH,dialogue,And Donovan's a-scumbag for coming on to
 3498,SARAH,dialogue,you.
-3499,' ELLE,dialogue,"Yes, he is.                                      ."
-3500,' ELLE,dialogue,They look at each other in a silent truce.
+3499,ELLE,dialogue,"Yes, he is.                                      ."
+3500,ELLE,dialogue,They look at each other in a silent truce.
 3501,SARAH,dialogue,So -- can we drink that champagne when I
 3502,SARAH,dialogue,get back from the pawnshop?
 3503,SARAH,dialogue,She pulls off her engagement ring.
-3504,ELLE           ..                                     .,dialogue,You're pawning The Rock?!
+3504,ELLE,dialogue,You're pawning The Rock?!
 3505,SARAH,dialogue,"Hell, yes. We've got finals to study"
 3506,SARAH,dialogue,for. In Jamaica.
 3507,SARAH,dialogue,"She smiles and heads off.    Elle smiles, processing this as"
@@ -3214,8 +3214,8 @@ line_id,speaker,type,text
 3511,EMMETT                           -,dialogue,As long as you realize I'm not just some
 3512,EMMETT                           -,dialogue,man-toy you can show off like a trophy.
 3513,ELLE                                             ',stage_direction,(joking)
-3514,ELLE                                             ',dialogue,"Then, forget it. Besides, I have an early"
-3515,ELLE                                             ',dialogue,class tomorrow.                                             .
+3514,ELLE,dialogue,"Then, forget it. Besides, I have an early"
+3515,ELLE,dialogue,class tomorrow.                                             .
 3516,EMMETT,dialogue,So Friday at eight?
 3517,EMMETT,dialogue,She smiles at him.                                                     .
 3520,ELLE,dialogue,Perfect.
