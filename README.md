@@ -14,7 +14,7 @@ You can find the movie script of legally blonde [here](https://github.com/nandhi
 
 #### look at the wordcloud for our beloved Emmett
 
-![image](C://Users//Nandhika//Desktop//LegallyBlonde//data//warner_bagofwords.png)
+![image](https://github.com/nandhika03/legallyblondeandnlp/blob/main/data/warner_bagofwords.png?raw=true)
 FYI,
 
 - A WordCloud is a visual representation of text data
